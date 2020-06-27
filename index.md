@@ -1,6 +1,6 @@
 # Lieblingscharakter aus Filmen
 Ein schwarzes Pferd
 ## Charaktereigenschaften
-* Gutmütig
+* Brav
 * Intelligent
 * Schnell
