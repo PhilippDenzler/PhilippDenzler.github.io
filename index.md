@@ -4,3 +4,4 @@ Ein schwarzes Pferd
 * Brav
 * Intelligent
 * Schnell
+> Ein Pferd kann nicht sprechen
